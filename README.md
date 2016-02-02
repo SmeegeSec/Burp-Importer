@@ -1,7 +1,11 @@
 Name:           Burp Importer
+
 Date:           02/01/2016
+
 Author:         Smeege
+
 Contact:        SmeegeSec@gmail.com
+
 Description:    Burp Importer is a Burp Suite extension written in python which allows users to 
                 connect to a list of web servers and populate the sitemap with successful connections.
                 Burp Importer also has the ability to parse Nessus (.nessus), Nmap (.gnmap), or a text 
@@ -10,4 +14,5 @@ Description:    Burp Importer is a Burp Suite extension written in python which 
                 extension.  Use cases for this extension consist of web server discovery, authorization 
                 testing, and more!
 
-![Burp Importer Tab](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
+
+![Burp Importer Tab](https://raw.githubusercontent.com/SmeegeSec/Burp-Importer/master/Screenshots/BurpImporter_FullTab.PNG)
