@@ -6,13 +6,11 @@
 
 **Contact:**        SmeegeSec@gmail.com
 
-**Description:**    Burp Importer is a Burp Suite extension written in python which allows users to 
+**Description:**    Burp Importer is a Burp Suite extension written in python which allows penetration testers to 
                 connect to a list of web servers and populate the sitemap with successful connections.
                 Burp Importer also has the ability to parse Nessus (.nessus), Nmap (.gnmap), or a text 
-                file for potential web connections.  Have you ever wished you could use Burp’s Intruder 
-                to hit multiple targets at once for discovery purposes?  Now you can with the Burp Import 
-                extension.  Use cases for this extension consist of web server discovery, authorization 
-                testing, and more!
+                file list of URLs for potential web connections.  Now you can hit multiple target servers at once!
+                Use cases for this extension consist of web server discovery, authorization testing, and more!
 
 **More Info:**		http://www.smeegesec.com
 
